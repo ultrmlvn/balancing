@@ -61,6 +61,7 @@
 
 Без обращения к хосту example.com 
 
+![Haproxy2](https://github.com/ultrmlvn/balancing/blob/main/query2.png)
 ---
 
 
