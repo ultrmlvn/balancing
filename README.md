@@ -44,7 +44,7 @@
 `Ответ:`
 .cfg файл haproxy_4lvl в репозитории
 
-![Haproxy1](https://github.com/ultrmlvn/Fault-Tolerance/blob/main/query1.png)
+![Haproxy1](https://github.com/ultrmlvn/balancing/blob/main/query1.png)
 
 
 
@@ -57,7 +57,7 @@
 `Ответ:`
 .cfg файл haproxy_7lvl в репозитории
 
-![Haproxy2](https://github.com/ultrmlvn/Fault-Tolerance/blob/main/query2.png)
+![Haproxy2](https://github.com/ultrmlvn/balancing/blob/main/query2.png)
 
 Без обращения к хосту example.com 
 
