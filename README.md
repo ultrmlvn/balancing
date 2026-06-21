@@ -42,7 +42,7 @@
 - На проверку направьте конфигурационный файл haproxy, скриншоты, где видно перенаправление запросов на разные серверы при обращении к HAProxy.
 
 `Ответ:`
-.cfg файл haproxy_4lvl в репозитории
+[.cfg файл haproxy_4lvl](https://github.com/ultrmlvn/balancing/blob/main/haproxy_4lvl.cfg)
 
 ![Haproxy1](https://github.com/ultrmlvn/balancing/blob/main/query1.png)
 
@@ -55,7 +55,7 @@
 - На проверку направьте конфигурационный файл haproxy, скриншоты, где видно перенаправление запросов на разные серверы при обращении к HAProxy c использованием домена example.local и без него.
 
 `Ответ:`
-[.cfg файл haproxy_7lvl](balancing/haproxy_4lvl.cfg)
+[.cfg файл haproxy_7lvl](https://github.com/ultrmlvn/balancing/blob/main/haproxy_7lvl.cfg)
 
 ![Haproxy2](https://github.com/ultrmlvn/balancing/blob/main/query2.png)
 
